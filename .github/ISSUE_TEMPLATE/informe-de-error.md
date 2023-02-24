@@ -2,7 +2,7 @@
 name: Informe de Error
 about: Crear un informe para ayudarnos a aprender
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
